@@ -77,5 +77,3 @@ O painel foi estruturado para exibir:
 └── README.md
 
 💡 Estudo de caso avaliado com Nota 10/10 pela banca examinadora, validando as práticas aplicadas de arquitetura, segurança e governança.
-
-📂 **Documentação Completa:** [👉 Clique aqui para abrir e visualizar o Relatório Técnico em PDF](estudo_de_caso_template_Maiara_Souza_Castro.pdf)
