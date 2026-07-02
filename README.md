@@ -69,13 +69,13 @@ O painel foi estruturado para exibir:
 ## 📁 Estrutura deste Repositório
 
 ```text
-├── .github/
-├── configs/
+├── configs/               # Arquivos de configuração de serviços
 │   ├── dns/               # nsd.conf e unbound.conf
-│   ├── ldap/              # nslcd.conf e ldapscripts.conf
-│   └── ansible/           # ansible.cfg, hosts e srv.yml
+│   └── ldap/              # nslcd.conf e ldapscripts.conf
 ├── roles/
-│   └── sudoers/
-│       ├── tasks/main.yml # Task de propagação
-│       └── files/sudoers  # Arquivo de regras de privilégios
+│   └── sudoers/           # Role do Ansible para controle de privilégios
 └── README.md
+
+💡 Estudo de caso avaliado com Nota 10/10 pela banca examinadora, validando as práticas aplicadas de arquitetura, segurança e governança.
+
+📂 **Documentação Completa:** [👉 Clique aqui para abrir e visualizar o Relatório Técnico em PDF](estudo_de_caso_template_Maiara_Souza_Castro.pdf)
